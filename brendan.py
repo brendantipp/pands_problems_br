@@ -7,4 +7,6 @@ y = ryan
 
 print (x)
 
+print (y)
+
 #testing commit made small change
