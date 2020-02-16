@@ -10,7 +10,7 @@ sentence = sentence[::-1]
 
 #print(sentence) uncomment to check the reverse 
 
-# TNow print every second word of the reversed sentence
+# Now print every second word of the reversed sentence
 
 print ("This is your sentence with every second word in reverse order",sentence[::2])
 
