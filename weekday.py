@@ -1,5 +1,5 @@
 #Brendan Ryan
-#Return messsage to user based on day being weekday or weekend
+#Return messsage to user based on day of week and whehter its a weekday or weekend!
 
 
 
