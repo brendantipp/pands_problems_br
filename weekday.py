@@ -12,10 +12,10 @@ Weekday = days[0:6]
 
 Weekend = days[6:-1]
 
-for days in Weekday
+for days in Weekday:
     print("na its a weekday")
 
-for days in Weekend
+for days in Weekend:
     print ("yesss its the weekend")
 
 
