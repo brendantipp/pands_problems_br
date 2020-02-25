@@ -21,7 +21,7 @@ print("Today is ... ", dayname[day])
 
 #print next line based on day index extracted
 
-if day < 4:
+if day <= 4:
     print("boo its a weekday no fun")
 else:
     print("yes its the weekend")
