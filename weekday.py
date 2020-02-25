@@ -6,17 +6,19 @@ import datetime
 
 today = datetime.datetime.now()
 
-days = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")
+day = today.weekday()
+dayname ={0:'Monday', 1:'Tuesday', 2:'Wednesday', 3:'Thursday', 4:'Friday', 5:'Saturday', 6:'Sunday'}
 
-Weekday = days[0:6]
+print("Today is ... ", dayname[day])
 
-Weekend = days[6:-1]
+#print(days)
 
-for days in Weekday:
-    print("na its a weekday")
+if day < 4:
+    print("boo its a weekday")
+else:
+    print("yes its the weekend")
 
-for days in Weekend:
-    print ("yesss its the weekend")
+
 
 
 
