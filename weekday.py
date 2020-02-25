@@ -14,8 +14,10 @@ Weekend = days[6:-1]
 
 for days in Weekday
     print("na its a weekday")
-else:
-    print ("yey it must be the weekend")
 
-    
+for days in Weekend
+    print ("yesss its the weekend")
+
+
+
 
