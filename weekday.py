@@ -1,4 +1,5 @@
 #Brendan Ryan
+#25th February 2020 - exerise 5
 #Return messsage to user based on day of week and whehter its a weekday or weekend!
 
 
