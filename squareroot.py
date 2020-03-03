@@ -11,7 +11,7 @@ import math
 
 #functions
 
-def mySqrt(x):
+def Sqrt(x):
 
     r = x
     precision = 10 ** (-10)
@@ -26,7 +26,7 @@ def mySqrt(x):
 
 #Result using the built function above
 x = float(input("enter value to be rooted:"))
-print("Result 1 using the built function",mySqrt(x))
+print("Result 1 using the built function",Sqrt(x))
 
 #Print result of the built in python function
 print("and result using built in function math.sqrt:",math.sqrt(x))
