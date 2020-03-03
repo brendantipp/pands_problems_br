@@ -1,6 +1,7 @@
 # This program will calculate a persons BMI using figures provided
 #enter weigth
 #enter height
+#
 
 # BMI IS weight divided by height in meters squared
 
