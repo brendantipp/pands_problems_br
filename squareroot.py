@@ -1,10 +1,13 @@
 #Brendan Ryan Feb 2020
 #Find squareroot of float number
+#thanks to https://hackernoon.com/calculating-the-square-root for the math......
 
 
-# import the buildt in python fucntion match
+# import the built in python fucntion match
 
 import math
+
+
 
 #functions
 
