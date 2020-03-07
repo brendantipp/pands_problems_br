@@ -1,6 +1,6 @@
 #this is brendans pratice file
 #test a new change
-#small change
+#small chang
 
 
 x = brendan
