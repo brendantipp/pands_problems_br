@@ -2,6 +2,18 @@
 GMIT Programming and Scripting
 Brendan Ryan
 
+Weekly Task 7
+
+es.py created 7th March 
+
+Task Program Description:
+
+Notes:
+initaly loaded my own premership.txt file but switched to moby_dick text to match against result on task
+comments are included with code
+
+
+
 ############################################
 
 Weekly Task 6
@@ -11,6 +23,9 @@ squareroot.py created 28th February 2020
 Task Progam Description:
 
 A program that takes a positive floating-point number as input and outputs an approximation of its square root. 
+
+Notes:
+
 Created function called Sqrt. 
 Imported match built in function and testeed my function against the built in function
 

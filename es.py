@@ -16,7 +16,7 @@ with open(filename, 'r') as file:
 
     result= file.read()
 
-#output the result 
+#output the results
 
 print("There is:",result.count(character),"",character,"s in that file")
 
