@@ -25,8 +25,13 @@ x = np.arange(0,4)
 ##plotting the results
 
 plt.plot (f(x),g(x),h(x))
-
+plt.xlabel("x axis")
+plt.ylabel("y axis")
+plt.title("brendans graph")
 plt.show()
+
+
+
 
 
 
