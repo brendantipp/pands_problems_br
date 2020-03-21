@@ -19,8 +19,8 @@ def g(x):
 def h(x):
     return x**3
 
-#the range required 
-x = np.arange(0,4)
+#the range required - up in increments of 1
+x = np.arange(0,4,1)
 
 ##plotting the results
 
@@ -29,6 +29,16 @@ plt.xlabel("x axis")
 plt.ylabel("y axis")
 plt.title("brendans graph")
 plt.show()
+
+#print (f(x),g(x),h(x))
+
+
+
+
+
+
+
+
 
 
 
