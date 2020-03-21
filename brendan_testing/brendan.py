@@ -1,12 +1,35 @@
 #this is brendans pratice file
 #test a new change
 #small change fdkfjdkfjdkfjdk45454545
+#
+#x = brendan
+#y = ryan
 
-x = brendan
-y = ryan
+#print (x)
 
-print (x)
-
-print (y)
+#print (y)
 
 #testing commit made small
+
+
+##### testing 2
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+
+
+data = {'a': np.arange(50),
+        'c': np.random.randint(0, 50, 50),
+        'd': np.random.randn(50)}
+data['b'] = data['a'] + 10 * np.random.randn(50)
+data['d'] = np.abs(data['d']) * 100
+
+plt.scatter('a', 'b', c='c', s='d', data=data)
+plt.xlabel('entry a')
+plt.ylabel('entry b')
+plt.show()
+
+
+##### testing 3
+
