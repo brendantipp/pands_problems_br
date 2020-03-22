@@ -3,11 +3,15 @@
 #small changes again rtrtrtrtrt
 
 
-x = brendan
-y = ryan
-
+x = "brendan"
+y = 2
 print (x)
 
 print (y)
+
+list range(0,10)
+
+print (b)
+
 
 #testing commit made small change
