@@ -42,15 +42,16 @@ A more detailed breadown of each file including any references used
 
 Weekly Task 8
 
-task8.py
+plotting task 8.py
 
 Task Description: A program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes. 
-
 
 Any references used :
 https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
 https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-
 https://numpy.org/
+
+Notes - imported numpy and matplotlib librarys
 
 ############################################
 
@@ -101,10 +102,9 @@ weekday.py
 
 Task Description: Write a program that outputs whether or not today is a weekday. 
 
-Any references used :
+Notes - imported the math module for functions
 
-https://www.dotnetperls.com/while-python
-https://www.w3schools.com/python/python_while_loops.asp
+
 
 
 ####################################################
@@ -120,7 +120,10 @@ of the following calculation. At each step calculate the next value by taking th
 if it is even, divide it by two, but if it is odd, multiply it by three and add one. 
 Have the program end if the current value is one.
 
-Notes: 
+Any references used :
+
+https://www.dotnetperls.com/while-python
+https://www.w3schools.com/python/python_while_loops.asp
 
 
 ##################################################
