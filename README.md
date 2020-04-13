@@ -1,11 +1,11 @@
 # pands_problems_br
-# GMIT Programming and Scripting
-# Brendan Ryan
+# GMIT Programming and Scripting Brendan Ryan
 
-Contents of Repository - pands_problems_br - (a more detailed breakdown can be found further down this file)
+## Contents of Repository - pands_problems_br - 
+(a more detailed breakdown can be found further down this file)
 
-** The Repository contains the Python scripts created as part of the GMIT Higher Diploma in Computer Science Data Anaylitics
-Programming and Scripting module **
+The Repository contains the Python scripts created as part of the GMIT Higher Diploma in Computer Science Data Anaylitics
+Programming and Scripting module
 
 
 ##  Python Files in repository
