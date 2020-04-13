@@ -2,24 +2,23 @@
 # GMIT Programming and Scripting
 # Brendan Ryan
 
-#################################################################################### 
 Contents of Repository - pands_problems_br - (a more detailed breakdown can be found further down this file)
 
-**The Repository contains the Python scripts created as part of the GMIT Higher Diploma in Computer Science Data Anaylitics
-Programming and Scripting module**
+** The Repository contains the Python scripts created as part of the GMIT Higher Diploma in Computer Science Data Anaylitics
+Programming and Scripting module **
 
 
 ##  Python Files in repository
-task8.py -  Weekly task 8 - Python program dipsplays a Plot based on a function
-es.py  -  Weekly task 7 - Python Program that Reads a text file and returns number of e's it contains
-squareroot.py - Weekly Task 6 - Python program that takes a positive floating-point number as input and outputs an approximation of its square root
-weekday.py - Weekly Task 5 - Python Program that outputs whether or not today is a weekday
-collatz.py -  Weekly Task 4 - Python Program that asks the user to input any positive integer and outputs the successive values 
+* task8.py -  Weekly task 8 - Python program dipsplays a Plot based on a function
+* es.py  -  Weekly task 7 - Python Program that Reads a text file and returns number of e's it contains
+* squareroot.py - Weekly Task 6 - Python program that takes a positive floating-point number as input and outputs an approximation of its square root
+* weekday.py - Weekly Task 5 - Python Program that outputs whether or not today is a weekday
+* collatz.py -  Weekly Task 4 - Python Program that asks the user to input any positive integer and outputs the successive values 
 of the following calculation.
-secondstring.py  - Weekly Task 3 - Python Program that takes asks a user to input a string and outputs every second letter in reverse order
-bmi.py - Weekly task week 2 - Python Program that calculates somebody's Body Mass Index (BMI)Asks users to input height and weight
+* secondstring.py  - Weekly Task 3 - Python Program that takes asks a user to input a string and outputs every second letter in reverse order
+* bmi.py - Weekly task week 2 - Python Program that calculates somebody's Body Mass Index (BMI)Asks users to input height and weight
 
-## > Other Files in repository
+##  Other Files in repository
 Licence - licence details
 moby_dick.text - used for python pogram es.py
 
