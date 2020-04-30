@@ -16,10 +16,9 @@ if a < 0:
     print (a,"is not a positive number")
     
 #prints value of (a) when positive integer
-while a > 0:
+if a > 0:
     print (a)
-    break
-
+    
 #perform calculations until reaches 1
 while a > 1:
     if a % 2 == 0:

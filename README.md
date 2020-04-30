@@ -31,7 +31,6 @@ Python Programs were created using Visual Studio code and Tested using teh cmder
 
 ## A more detailed breadown of each file including any references used 
 
-
 ### Weekly Task 8
 
 plotting task 8.py
